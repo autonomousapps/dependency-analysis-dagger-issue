@@ -1,0 +1,3 @@
+rootProject.name = 'dagger-module'
+
+include 'lib-module', 'lib-source'
